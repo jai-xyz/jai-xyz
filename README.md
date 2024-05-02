@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Jairo Ortega</h1>
-<h3 align="center">Aspiring front-end developer</h3>
+<h1>Yo! I'm Jairo Ortega</h1>
+<h3">Aspiring software/web developer</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
