@@ -1,9 +1,32 @@
-<h1>Yo! I'm Jai</h1>
-<h3">Aspiring Software / Web Developer</h3>
+<h3 align="center">Yo! 👋</h3>
+<h3 align="center">I'm Jairo Lexter Ortega</h3>
+<h3 align="center">💻 Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### 👩‍💻 About Me:
+- 🔧 I build both frontend and backend for modern web apps  
+- 🌐 Passionate about clean code and user-friendly design  
 
+---
+
+### 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,lavavel,nodejs,mongodb,postgres,mysql,docker,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaixyz&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jairo-lexter-ortega-822324348">LinkedIn</a> |
+  <a href="https://jai-xyz.github.io/my-portfolio">Portfolio</a> |
+  <a href="mailto:ortega.jairolextern@gmail.com">Email</a>
+</p>
