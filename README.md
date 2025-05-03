@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><strong>Backend:</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,php" style="vertical-align: middle;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs" style="vertical-align: middle;" /></td>
   </tr>
   <tr>
     <td><strong>Database:</strong></td>
