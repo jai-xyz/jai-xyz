@@ -17,13 +17,5 @@
 
 ### 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,lavavel,nodejs,mongodb,postgres,mysql,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,laravel,nodejs,postgres,mysql,git,vscode" />
 </p>
-
---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaixyz&show_icons=true&theme=radical" />
-</p>
-
