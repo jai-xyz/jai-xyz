@@ -1,7 +1,7 @@
-<h3 align="center">Yo! 👋</h3>
-<h3 align="center">I'm Jairo Lexter Ortega</h3>
-<h3 align="center">💻 Full-Stack Web Developer</h3>
-<p align="center">
+<h4>Yo! 👋</h4>
+<h4>I'm Jairo Lexter Ortega</h4>
+<h4 >💻 Full-Stack Web Developer</h4>
+<p >
   <a href="https://www.linkedin.com/in/jairo-lexter-ortega-822324348">LinkedIn</a> |
   <a href="https://jai-xyz.github.io/my-portfolio">Portfolio</a> |
   <a href="mailto:ortega.jairolexter.n@gmail.com">Email</a>
@@ -15,7 +15,18 @@
 
 ---
 
-### 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,laravel,nodejs,postgres,mysql,git,vscode" />
-</p>
+### 🧠 Tech Stack
+- **Frontend:** <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
+- **Backend:** <img src="https://skillicons.dev/icons?i=nodejs,php" />
+- **Database:** <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+### 🛠️ Tools
+- **API Testing:** <img src="https://skillicons.dev/icons?i=postman" />
+- **Version Control:** <img src="https://skillicons.dev/icons?i=git,github" />
+
+### 💻 IDEs / Editors
+- **Primary:** <img src="https://skillicons.dev/icons?i=vscode" />
+
+### 🎨 Design
+- **UI Design:** <img src="https://skillicons.dev/icons?i=figma" />
+
