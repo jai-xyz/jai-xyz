@@ -7,13 +7,13 @@
   <a href="mailto:ortega.jairolexter.n@gmail.com">Email</a>
 </p>
 
---
+---
 
 ### 👩‍💻 About Me:
 - 🔧 I build both frontend and backend for modern web apps  
 - 🌐 Passionate about clean code and user-friendly design  
 
---
+---
 
 ### 💻 Tech Stack:
 <p align="center">
