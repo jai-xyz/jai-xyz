@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td><strong>Frontend:</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" style="vertical-align: middle;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" style="vertical-align: middle;" /></td>
   </tr>
   <tr>
     <td><strong>Backend:</strong></td>
